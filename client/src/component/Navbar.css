@@ -1,0 +1,40 @@
+.navbar{
+    background: transparent !important;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    min-height: 68px;
+    font-size: 20px;
+    font-family: 'Baloo Regular', sans-serif;
+    color: black !important;
+}
+.navbarIcon{
+    margin: 8px;
+    width: 25px;
+}
+
+.dropdown-menu{
+    background: #07709c;
+}
+.dropdown-menu .dropdown-item{
+    color: #fff !important;
+}
+.dropdown-menu .dropdown-item:hover{
+    background: #29c0ff;
+}
+.dropdown-menu li {
+    position: relative;
+}
+.dropdown-menu .dropdown-submenu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: -7px;
+}
+.dropdown-menu .dropdown-submenu-left {
+    right: 100%;
+    left: auto;
+}
+.dropdown-menu > li:hover > .dropdown-submenu {
+    display: block;
+}

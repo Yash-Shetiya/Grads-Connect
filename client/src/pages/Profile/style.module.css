@@ -1,0 +1,14 @@
+.left{
+    width: 40%;
+    font-family: 'Tahoma Regular', sans-serif;
+    /* text-align: center; */
+}
+.heading{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px auto;
+}
+.logodiv{
+    width: 40%;
+}

@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`This suit is to test the Body component Snapshot of Body 1`] = `
+<DocumentFragment>
+  <div
+    class="container homeContainer"
+  >
+    <img
+      alt="logo"
+      class="logo"
+      src="GradsConnectLogo.png"
+    />
+    <div
+      class="carousel slide w-100"
+      data-bs-ride="carousel"
+      id="carouselExampleControls"
+    >
+      <div
+        class="carousel-inner"
+      />
+      <button
+        class="carousel-control-next"
+        data-bs-slide="next"
+        data-bs-target="#carouselExampleControls"
+        type="button"
+      >
+        <span
+          class="nextIcon"
+        >
+          ›
+        </span>
+        <span
+          class="visually-hidden"
+        >
+          Next
+        </span>
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`This suit is to test the Body component finding title 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <span
+      class="headerText"
+    >
+      Batch undefined
+    </span>
+    <div
+      class="row"
+    />
+  </div>
+</DocumentFragment>
+`;

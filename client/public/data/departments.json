@@ -1,0 +1,16 @@
+{
+    "departments": [
+        {
+            "key": "comp",
+            "name": "Computer Science"
+        },
+        {
+            "key": "civil",
+            "name": "Civil"
+        },
+        {
+            "key": "mech",
+            "name": "Mechanical"
+        }
+    ]
+}
